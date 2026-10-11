@@ -1,0 +1,20 @@
+[
+    {
+        "id": 101,
+        "title": "Production DB Outage",
+        "description": "Database connection pool exhausted",
+        "status": "open",
+        "priority": "critical",
+        "reporter_id": 1,
+        "message": "[URGENT] Production DB Outage \u2014 needs immediate attention"
+    },
+    {
+        "id": 102,
+        "title": "Update button padding",
+        "description": "Change padding from 8px to 12px on settings modal",
+        "status": "open",
+        "priority": "low",
+        "reporter_id": 1,
+        "message": "Update button padding \u2014 low priority, handle when free"
+    }
+]
